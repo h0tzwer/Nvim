@@ -1,5 +1,9 @@
 # Nvim
 
+nvim ~/.config/nvim/init.vim
+
+After use **:PlugInstall**
+
 Install plugin manager for nvim/vim
 ===
 ```bash
