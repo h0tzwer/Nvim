@@ -14,4 +14,4 @@ nvim ~/.config/nvim/init.vim
 ```
 After use **:PlugInstall**
 
-![img](screen.png)
+![img]()
