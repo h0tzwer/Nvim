@@ -1,6 +1,5 @@
 # Nvim
 
-
 ## Install plugin manager for nvim/vim
 
 ```bash
