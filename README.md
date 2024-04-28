@@ -13,4 +13,4 @@ python3 -m pip install --user --upgrade pynvim
 nvim ~/.config/nvim/init.vim
 ```
 
-![img](screen.png)
+
