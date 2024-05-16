@@ -9,8 +9,9 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 ```bash
 python3 -m pip install --user --upgrade pynvim
 ```
+Open file
 ```bash
 nvim ~/.config/nvim/init.vim
 ```
-
+:PlugInstall
 
